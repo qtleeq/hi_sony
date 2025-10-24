@@ -1,6 +1,6 @@
 # Taylor Lee's todo app.
 
-I did this from following a tutorial. See the deployment at qtleeq.github.io/hi_sony .
+I did this from following a tutorial. See the deployment at [qtleeq.github.io/hi_sony](https://qtleeq.github.io/hi_sony).
 
 # React + Vite
 
