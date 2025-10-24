@@ -1,3 +1,7 @@
+# Taylor Lee's todo app.
+
+I did this from following a tutorial. See the deployment at qtleeq.github.io/hi_sony .
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
