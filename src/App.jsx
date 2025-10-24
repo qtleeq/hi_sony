@@ -3,6 +3,7 @@ import { nanoid } from "nanoid";
 import Todo from "./components/Todo";
 import Form from "./components/Form";
 import FilterButton from "./components/FilterButton";
+import sonyLogo from "./assets/sony.png"
 
 const FILTER_MAP = {
   All: () => true,
@@ -75,7 +76,7 @@ function App(props) {
   return (
     <div className="todoapp stack-large">
       <div className="image-container">
-        <img src="src/assets/Sony-Logo-1961.png" alt="" />
+        <img src={sonyLogo} alt="" />
       </div>
       <Form addTask={addTask} />
       <div className="filters btn-group stack-exception">{filterList}</div>
